@@ -1,0 +1,1 @@
+These are some capstone projects made in Pycharm IDE 
